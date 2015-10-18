@@ -10,7 +10,7 @@ public class zad2 {
 		
 		        // Nazwa pliku do którego zapiszemy i z którego odczytamy tekst
 		        String nazwaPliku = "p.csv";
-		        // Zapis pliku
+		         // Zapis pliku
 		      //  zapiszPlik(nazwaPliku);
 		        // Odczyt pliku
 		        String odczytanyTekst = odczytajPlik(nazwaPliku);
